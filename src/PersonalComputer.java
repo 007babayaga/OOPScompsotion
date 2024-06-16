@@ -18,7 +18,7 @@ public class PersonalComputer extends Product{
         drawLogo();
     }
 
-   /* public Monitor getMonitor() {
+    public Monitor getMonitor() {
         return monitor;
     }
 
@@ -28,5 +28,5 @@ public class PersonalComputer extends Product{
 
     public ComputerCase getComputerCase() {
         return computerCase;
-    }*/
+    }
 }
